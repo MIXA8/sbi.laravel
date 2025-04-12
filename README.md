@@ -1,11 +1,12 @@
 # SBI Laravel 
 
 ---
-
+## Видео
+https://drive.google.com/file/d/1YIAh3akogBzRbC0MlxjTbj15EJpsqM92/view?usp=sharing
 ## ⚙ Установка
 
 ```bash
-git clone 
+git clone  https://github.com/MIXA8/sbi.laravel
 cd sbi-laravel
 composer install
 cp .env.example .env
